@@ -115,11 +115,3 @@ docker compose down
 # Tear down and delete all data
 docker compose down -v
 ```
-
-## Local Development (without Docker)
-
-See each service's own README for instructions on running individually with hot-reload:
-
-- [backend/README.md](backend/README.md)
-- [frontend/README.md](frontend/README.md)
-- [nginx/README.md](nginx/README.md)
